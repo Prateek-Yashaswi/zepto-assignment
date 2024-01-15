@@ -1,0 +1,36 @@
+.box {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.chips {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.input {
+  border: none;
+  outline: none;
+  padding: 4px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.autocomplete-list {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  margin-bottom: 2rem;
+}
+
+.autocomplete-list-item {
+  border: none;
+  outline: none;
+  padding: 1rem;
+  font-size: 1rem;
+  margin: 5px;
+  border-radius: 8px;
+}
