@@ -1,30 +1,37 @@
-# React + TypeScript + Vite
+# Zepto Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to run the solution
 
-Currently, two official plugins are available:
+- Clone the repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```console
+git clone https://github.com/Prateek-Yashaswi/zepto-assignment.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Navigate inside the directory
+
+```txt
+cd zepto-assignment
+```
+
+- Run the following command & wait for it to complete
+
+```console
+npm install
+```
+
+- Run the following command to start the server
+
+```console
+npm run dev
+```
+
+## Assignment
+
+![Screenshot 2024-01-16 031748](https://github.com/Prateek-Yashaswi/zepto-assignment/assets/60723631/cf15ca69-a638-4bf5-bab1-87e03512ddb0)
+
+## Solution
+
+- Screenshot
+
+![Screenshot 2024-01-16 031948](https://github.com/Prateek-Yashaswi/zepto-assignment/assets/60723631/bca663b7-2a9d-4bd2-8706-30f186484f05)
