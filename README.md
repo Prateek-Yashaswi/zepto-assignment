@@ -34,4 +34,4 @@ npm run dev
 
 - Screenshot
 
-![Screenshot 2024-01-16 031948](https://github.com/Prateek-Yashaswi/zepto-assignment/assets/60723631/bca663b7-2a9d-4bd2-8706-30f186484f05)
+![Screenshot 2024-01-16 031948](https://github.com/Prateek-Yashaswi/zepto-assignment/assets/60723631/432208a0-02f3-4e5c-a5ff-5719723cfdda)
